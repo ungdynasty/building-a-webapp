@@ -16,7 +16,7 @@ def hello():
     
     # find a way to pick something
     typing_choice = random.choice(typing_options)
-    return typing_choice
+    return url_for('static', 'img/typing_choice')
 
 if __name__ == "__main__":
     # go get the PORT from the environment
