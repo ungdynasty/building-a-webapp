@@ -1,6 +1,6 @@
 # solid-octo-computing-machine
 
-> Today compliments of Tyler B. we are going to dive into the wonderful world of webapplication development so everyone can get their WebDev badge! This will likely be a theme of development as we explore the concept of building webapplications. 
+> When you visit a webpage you are actually interacting with a computer that is in some other location. The remote computer is running a web application. The website is visible to you because of the remote computer running that web application. We are now going to build our own web application that you can visit!
 
 1. Create a heroku account.
 2. Create a git repo.
