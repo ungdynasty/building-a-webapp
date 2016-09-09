@@ -25,5 +25,5 @@ if __name__ == "__main__":
     # run the app with the port and bind to any ip
     app.run(
       "0.0.0.0"
-    , port
+    , int(port)
     )
